@@ -1,0 +1,11 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+.login{
+    background: url(../assets/background.jpg);
+    height:87vh;
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+}
